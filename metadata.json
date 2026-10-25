@@ -1,0 +1,6 @@
+{
+  "name": "RepoQuest",
+  "description": "AI-Powered Open-Source Discovery and Contribution Platform for students and beginner developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
